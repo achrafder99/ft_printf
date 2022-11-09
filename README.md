@@ -8,4 +8,12 @@
 <b>This project is pretty straight forward. You will recode printf. You will mainly learn how to use variadic arguments.</b>
 </p>
 
+<h1>Deatails<h1>
+  <ul>
+    <li>
+      Date Finished : <img src="https://i.ibb.co/HGtythm/Screen-Shot-2022-11-09-at-10-44-27-PM.png" alt="Screen-Shot-2022-11-09-at-10-44-27-PM" border="0">
+    <li>
+    <li>Result: <h5 style="color:green">100%</h5></li>
+  </ul>
+
 Ft_printf (42cursus) 2022-2023
