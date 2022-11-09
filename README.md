@@ -13,7 +13,7 @@
     <li>
       Date Finished : 2022-11-09:17:10
     <li>
-    <li>Result: <h5 style="color:green">100%</h5></li>
+    <li>Result:100%</li>
   </ul>
 
 Ft_printf (42cursus) 2022-2023
